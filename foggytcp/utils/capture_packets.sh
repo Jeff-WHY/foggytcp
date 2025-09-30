@@ -7,6 +7,7 @@
 # No part of the project may be copied and/or distributed without the express
 # permission of the course staff. Everyone is prohibited from releasing their
 # forks in any public places.
+#cp2
 
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
